@@ -1,0 +1,9 @@
+global using System.ComponentModel.DataAnnotations;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using Microsoft.EntityFrameworkCore;
+global using MyFirstEFCore.Model;
+global using Microsoft.EntityFrameworkCore.Design;
+global using Microsoft.Extensions.Configuration;
+global using MyFirstEFCore.Data;
+global using MyFirstEFCore.Factory;
+global using Microsoft.Extensions.Logging;
